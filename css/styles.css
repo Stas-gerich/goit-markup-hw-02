@@ -22,7 +22,7 @@ button{
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
@@ -31,7 +31,7 @@ button{
 .logo-span {
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #2e2f42;
@@ -69,12 +69,12 @@ color: #434455;
 
 /* #endregion header */
 
-/* #region section 1 */
+/* #region hero */
 
-.section_1 {
+.hero {
     background-color: #2e2f42;
 }
-.section_1-title {
+.hero-title {
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
@@ -91,12 +91,12 @@ color: #fff;
 background-color: #4d5ae5;
 }
 
-.section_1-button:hover,
-.section_1-button:focus{
+.hero-button:hover,
+.hero-button:focus{
     background-color: #404bbf;
 }
     
-/* #endregion section 1 */
+/* #endregion hero */
 
 /* #region section 2 */
 
