@@ -156,7 +156,7 @@ color: #434455;
 /* #region Our Portfolio */
 
 
-.section_4-title {
+.portfolio-title {
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
@@ -165,17 +165,17 @@ text-align: center;
 color: #2e2f42;
 }
 
-.section_4-item {
+.portfolio-item {
     background: #fff;
 }
-.section_4-title-h4 {
+.portfolio-title-h4 {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
-.section_4-text {
+.portfolio-text {
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
